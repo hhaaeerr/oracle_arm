@@ -60,7 +60,7 @@ cd oracle_arm
 
 最后运行
 
-`nohup python3 oracle_arm.py main.tf > /dev/null 2>&1 &`
+`nohup python3 oracle_arm.py main.tf >> /dev/null 2>&1 &`
 
 会自动停止的,不用管了。Done and enjoy 🎉
 

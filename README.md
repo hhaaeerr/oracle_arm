@@ -29,6 +29,9 @@ bash -c "$(curl –L https://raw.githubusercontent.com/oracle/oci-cli/master/scr
 
 参考[大鸟博客-Oracle甲骨文 ARM VPS自动抢购脚本 – 利用宝塔面板+oci](https://www.daniao.org/14121.html) 中的 **1、生成main.tf** 即可，下载到本地并解压出main.tf文件
 
+**注意**
+创建实例的时候网络哪里不要动，默认就好！！！
+
 # 脚本需要改的地方
 ## 启动 tg推送
 
